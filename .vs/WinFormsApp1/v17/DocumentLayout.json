@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|c:\\users\\giovv\\desktop\\escritorio\\vs22\\winformsapp1\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|c:\\users\\giovv\\desktop\\escritorio\\vs22\\winformsapp1\\clases\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:clases\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|c:\\users\\giovv\\desktop\\escritorio\\vs22\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|c:\\users\\giovv\\desktop\\escritorio\\vs22\\winformsapp1\\clases\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:clases\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|c:\\users\\giovv\\desktop\\escritorio\\vs22\\winformsapp1\\clases\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520E15F7-BF8D-4165-9A9F-BFAB9B21864C}|WinFormsApp1.csproj|solutionrelative:clases\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:25:48.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:19:01.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ventas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Ventas.cs",
+              "RelativeDocumentMoniker": "Ventas.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Ventas.cs [Design]",
+              "RelativeToolTip": "Ventas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:55:19.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\clases\\Venta.cs",
+              "RelativeDocumentMoniker": "clases\\Venta.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\clases\\Venta.cs",
+              "RelativeToolTip": "clases\\Venta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T00:05:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Ventas.cs",
+              "RelativeDocumentMoniker": "Ventas.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\Ventas.cs",
+              "RelativeToolTip": "Ventas.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADgv2cAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:32:07.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concesionario.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\clases\\Concesionario.cs",
+              "RelativeDocumentMoniker": "clases\\Concesionario.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\clases\\Concesionario.cs",
+              "RelativeToolTip": "clases\\Concesionario.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T23:38:42.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\clases\\Inventario.cs",
+              "RelativeDocumentMoniker": "clases\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Giovv\\Desktop\\Escritorio\\vs22\\WinFormsApp1\\clases\\Inventario.cs",
+              "RelativeToolTip": "clases\\Inventario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T00:22:57.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
